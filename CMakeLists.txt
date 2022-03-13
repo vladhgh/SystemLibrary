@@ -12,4 +12,4 @@ else()
     message(STATUS "The compiler ${CMAKE_CXX_COMPILER} has no C++11 support. Please use a different C++ compiler.")
 endif()
 
-add_executable(SystemLibrary main.cpp src/Interfaces/IConvertable.hpp)
+add_executable(SystemLibrary main.cpp src/Interfaces/IConvertable.hpp src/Types/DateTime.hpp src/Types/Object.hpp src/Types/String.hpp src/Types/Double.hpp)
