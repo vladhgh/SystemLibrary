@@ -1,0 +1,4 @@
+.idea
+.DS*
+._*
+/cmake-build-debug/
