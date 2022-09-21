@@ -1,10 +1,5 @@
-//
-// Created by Vlad Prokopev on 3/13/22.
-// Test change
-//
-
-#ifndef SYSTEMLIBRARY_DATETIME_HPP
-#define SYSTEMLIBRARY_DATETIME_HPP
+#ifndef SYSTEM_LIBRARY_DATETIME_HPP
+#define SYSTEM_LIBRARY_DATETIME_HPP
 
 #include "Object.hpp"
 
@@ -17,4 +12,4 @@ namespace System {
     };
 }
 
-#endif//SYSTEMLIBRARY_DATETIME_HPP
+#endif//SYSTEM_LIBRARY_DATETIME_HPP
