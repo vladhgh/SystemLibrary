@@ -1,9 +1,5 @@
-//
-// Created by Vlad Prokopev on 3/13/22.
-//
-
-#ifndef SYSTEMLIBRARY_STRING_HPP
-#define SYSTEMLIBRARY_STRING_HPP
+#ifndef SYSTEM_LIBRARY_STRING_HPP
+#define SYSTEM_LIBRARY_STRING_HPP
 
 #include <string>
 #include <iostream>
@@ -82,4 +78,4 @@ namespace System {
     };
 }
 
-#endif//SYSTEMLIBRARY_STRING_HPP
+#endif//SYSTEM_LIBRARY_STRING_HPP
