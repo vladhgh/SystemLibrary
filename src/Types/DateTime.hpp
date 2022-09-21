@@ -1,7 +1,3 @@
-//
-// Created by Vlad Prokopev on 3/13/22.
-//
-
 #ifndef SYSTEMLIBRARY_DATETIME_HPP
 #define SYSTEMLIBRARY_DATETIME_HPP
 
