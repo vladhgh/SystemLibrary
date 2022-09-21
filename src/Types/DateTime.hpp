@@ -1,5 +1,5 @@
-#ifndef SYSTEMLIBRARY_DATETIME_HPP
-#define SYSTEMLIBRARY_DATETIME_HPP
+#ifndef SYSTEM_LIBRARY_DATETIME_HPP
+#define SYSTEM_LIBRARY_DATETIME_HPP
 
 #include "Object.hpp"
 
@@ -12,4 +12,4 @@ namespace System {
     };
 }
 
-#endif//SYSTEMLIBRARY_DATETIME_HPP
+#endif//SYSTEM_LIBRARY_DATETIME_HPP
